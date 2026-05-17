@@ -1,1 +1,2 @@
 from .auth_serializers import RegisterSerializer
+from .task_serializer import TaskSerializer
