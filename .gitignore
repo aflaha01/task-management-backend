@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Environment files
+.env
+.env.*
+
+# SQLite database
+db.sqlite3
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
